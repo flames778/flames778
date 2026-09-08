@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 🧬 Who Am I?
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Who+Am+I%3F;Cybersecurity+Researcher+%7C+AI+Engineer+%7C+Builder)
 
 </div>
 
@@ -46,19 +46,20 @@
 
 > *"I don't just use technology — I dismantle it, understand it, and rebuild it better."*
 
-I'm a **cybersecurity researcher** and **AI engineer** from **Lagos, Nigeria** 🇳🇬, currently studying at **NUTM** (Nigeria University of Technology and Management).
+I'm a **cybersecurity researcher** and **AI engineer** from **Lagos, Nigeria**, currently studying at **NUTM** (Nigeria University of Technology and Management).
 
 I operate at the intersection of **offensive security** and **intelligent systems** — building tools that find vulnerabilities before the bad guys do, and AI that makes systems smarter, faster, and more autonomous.
 
 **When I'm not breaking things ethically:**
-- 🤖 Training AI models and building intelligent agents
-- 📡 Wiring up IoT devices and smart systems
-- 🎮 Probably thinking about game engines
-- ☕ Running on caffeine and curiosity
+
+- Training AI models and building intelligent agents
+- Wiring up IoT devices and smart systems
+- Probably thinking about game engines
+- Running on caffeine and curiosity
 
 <br/>
 
-**📍 Lagos, Nigeria** &nbsp;|&nbsp; **🎓 NUTM** &nbsp;|&nbsp; **💼 Open to opportunities**
+**Lagos, Nigeria** | **NUTM** | **Open to opportunities**
 
 </td>
 <td width="40%" align="center">
@@ -77,7 +78,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Tech+Arsenal;What+I+Work+With)
 
 </div>
 
@@ -139,7 +140,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 
 <div align="center">
 
-## 🔥 Pinned Projects
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Pinned+Projects;What+I've+Built)
 
 </div>
 
@@ -149,7 +150,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security & AI
+### Security and AI
 
 [![Forensic AI](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=forensic-ai-for-cybersecurity-&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/forensic-ai-for-cybersecurity-)
 
@@ -164,7 +165,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web & Full-Stack
+### Web and Full-Stack
 
 [![Scoosh Autos](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=Zeker-car-website&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/Zeker-car-website)
 
@@ -186,7 +187,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 
 <div align="center">
 
-## 📊 Activity
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Activity;My+GitHub+Journey)
 
 </div>
 
@@ -212,18 +213,24 @@ I operate at the intersection of **offensive security** and **intelligent system
 
 <div align="center">
 
-## 💡 The Philosophy
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=The+Philosophy;How+I+Think)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "I believe every system has a flaw.                   │
-│    My job is to find it before someone else does —      │
-│    then build something better."                        │
-│                                                         │
-│                          — Evans                        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
++-----------------------------------------------------------+
+|                                                           |
+|   "I believe every system has a flaw.                     |
+|    My job is to find it before someone else does --       |
+|    then build something better."                          |
+|                                                           |
+|                          -- Evans                         |
+|                                                           |
++-----------------------------------------------------------+
 ```
 
 </div>
@@ -241,9 +248,9 @@ I operate at the intersection of **offensive security** and **intelligent system
 <div align="center">
 
 ```
-╔═══════════════════════════════════════╗
-║   Built with caffeine and curiosity   ║
-╚═══════════════════════════════════════╝
++===========================================+
+|   Built with caffeine and curiosity       |
++===========================================+
 ```
 
 </div>
