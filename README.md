@@ -46,9 +46,15 @@
 
 > *"I don't just use technology — I dismantle it, understand it, and rebuild it better."*
 
+<br/>
+
 I'm a **cybersecurity researcher** and **AI engineer** from **Lagos, Nigeria**, currently studying at **NUTM** (Nigeria University of Technology and Management).
 
+<br/>
+
 I operate at the intersection of **offensive security** and **intelligent systems** — building tools that find vulnerabilities before the bad guys do, and AI that makes systems smarter, faster, and more autonomous.
+
+<br/>
 
 **When I'm not breaking things ethically:**
 
@@ -111,7 +117,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 </td>
 <td align="center" width="25%">
 
-**Backend & DB**
+**Backend and DB**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -122,7 +128,7 @@ I operate at the intersection of **offensive security** and **intelligent system
 </td>
 <td align="center" width="25%">
 
-**Security & Infra**
+**Security and Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
