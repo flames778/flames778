@@ -140,79 +140,6 @@ I operate at the intersection of **offensive security** and **intelligent system
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Pinned+Projects;What+I've+Built)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Security and AI
-
-[![Forensic AI](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=forensic-ai-for-cybersecurity-&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/forensic-ai-for-cybersecurity-)
-
-[![Malware Lab](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=Malware-analysis-lab&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/Malware-analysis-lab)
-
-[![Android Pentest](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=android-pentest-lab-metasploit&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/android-pentest-lab-metasploit)
-
-[![Blockchain Security](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=blockchain-security-tester&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/blockchain-security-tester)
-
-[![IoT Scanner](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=IOT-Scanner&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/IOT-Scanner)
-
-</td>
-<td width="50%" valign="top">
-
-### Web and Full-Stack
-
-[![Scoosh Autos](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=Zeker-car-website&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/Zeker-car-website)
-
-[![Prec Pearl](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=data-base-&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/data-base-)
-
-[![NUTM Navigator](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=NUTM_-Navigator&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/NUTM_-Navigator)
-
-[![Encrypted Camera](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=Encrypted-Security-Camera&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/Encrypted-Security-Camera)
-
-[![Fiber Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=flames778&repo=fiber-cable-monitoring-&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9)](https://github.com/flames778/fiber-cable-monitoring-)
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Activity;My+GitHub+Journey)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Flames's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flames778&bg_color=0d1117&color=d4af37&line=1a1b27&point=ffffff&area=true&area_color=d4af37&hide_border=true)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Flames's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flames778&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9&langs_count=8)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=The+Philosophy;How+I+Think)
 
 </div>
@@ -232,14 +159,6 @@ I operate at the intersection of **offensive security** and **intelligent system
 |                                                           |
 +-----------------------------------------------------------+
 ```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=flames778&color=d4af37&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
